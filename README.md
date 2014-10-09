@@ -1,0 +1,1 @@
+Simple search for the Mac App Store. Selecting the desired result and hitting enter triggers the App Store to open directly to the selected app.
